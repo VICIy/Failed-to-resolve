@@ -1,7 +1,8 @@
 # Failed-to-resolve
 There  is a problem when inserting thirdparty library :Failed to reslove~~I am crying!~~
 
-add jcenter{url "http://jcenter.bintray.com/"} like following:
+solution:
+add jcenter{url "http://jcenter.bintray.com/"} in your Application's build.gradle like following:
 
 
 buildscript {
