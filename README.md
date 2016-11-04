@@ -2,7 +2,7 @@
 There  is a problem when inserting thirdparty library :Failed to reslove~~I am crying!~~
 
 solution:
-add jcenter{url "http://jcenter.bintray.com/"} in your Application's 'build.gradle' like following:
+add jcenter{url "http://jcenter.bintray.com/"} in your Application's  "build.gradle" like following:
 
 
 buildscript {
